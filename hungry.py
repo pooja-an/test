@@ -1,3 +1,5 @@
 print("I am hungry.")
 print("Pizza")
 print("burger")
+print("I am thirsty.")
+print("water")
